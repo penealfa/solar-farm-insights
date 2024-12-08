@@ -33,24 +33,16 @@ This project focuses on analyzing environmental measurement data to identify hig
    ```bash
    git clone https://github.com/your-username/Strategic-Solar-Investment-Analysis.git
    cd Strategic-Solar-Investment-Analysis
-Create a virtual environment and install required dependencies:
-python -m venv env
-source env/bin/activate  # On Windows: env\Scripts\activate
-pip install -r requirements.txt
+2. Create a virtual environment and install required dependencies:
+    ```bash   
+      python -m venv env
+      source env/bin/activate  # On Windows: env\Scripts\activate
+      pip install -r requirements.txt
 Navigate to the notebook folder to explore the Jupyter notebooks or run the scripts from the scripts folder.
-Usage
+
+### **Usage**
 Notebook Folder: Contains detailed, step-by-step EDA and analysis notebooks.
 Scripts Folder: Run Python scripts for preprocessing and visualizing data.
-Results
+### **Results**
 The analysis identifies Benin as the most promising region for solar investments, followed by Togo, with Sierra Leone as a limited investment opportunity. Detailed insights and recommendations can be found in the report.
 
-Contributing
-Contributions are welcome! Please follow these steps:
-Fork the repository.
-Create a new branch:
-git checkout -b feature-name
-Commit your changes:
-git commit -m "Add your message here"
-Push to the branch:
-git push origin feature-name
-Create a Pull Request.
