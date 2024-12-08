@@ -10,9 +10,6 @@ This project focuses on analyzing environmental measurement data to identify hig
 - Insights into region-specific environmental conditions (temperature, humidity, wind speed, etc.).
 - Recommendations for prioritizing solar investments in high-potential regions.
 
-## **Project Structure**
-Strategic-Solar-Investment-Analysis/ ├── notebook/ │ └── Contains Jupyter notebooks for data exploration and analysis. ├── scripts/ │ └── Python scripts for data preprocessing, cleaning, and visualization. ├── data/ │ └── Raw and processed datasets (not included in the repository for privacy reasons). └── README.md └── Main project description and setup instructions.
-
 ## **Getting Started**
 ### **Prerequisites**
 - Python 3.8+
